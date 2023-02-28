@@ -1,0 +1,72 @@
+[
+    {
+        "emp_id" : 143 ,
+        "emp_name" : "Red_Ranger" ,
+        "emp_sal" : "4,90,000" ,
+        "emp_des" : "Support Eng" ,
+        "emp_gender" : "MALE" ,
+        "emp_education" : "3rd class" ,
+        "emp_ex" : "2 years" ,
+        "emp_companies" : {"previous" : "racer" ,
+                           "current" : "writer"} ,
+        "emp_image" : "https://w0.peakpx.com/wallpaper/713/798/HD-wallpaper-spd-red-ranger-red-ranger-disney-power-rangers-hasbro-spider-web-thumbnail.jpg" ,
+        "emp_skills" : ["Oops" , "React" , "Java" , "Devops"]  ,
+        "emp_city" : "Russia"
+    },
+    {
+        "emp_id" : 144 ,
+        "emp_name" : "White_Ranger" ,
+        "emp_sal" : "5,90,000" ,
+        "emp_des" : "Test Eng" ,
+        "emp_gender" : "MALE" ,
+        "emp_education" : "2nd class" ,
+        "emp_ex" : "3 years" ,
+        "emp_companies" : {"previous" : "hitachi" ,
+                           "current" : "tester"} ,
+        "emp_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEXK3J_Q9XGDLYF_dIb5ScdFMLk5WgaLIs0w&usqp=CAU" ,
+        "emp_skills" : ["Sql" , "Node" , "Java" , "Web"]  ,
+        "emp_city" : "Dubai"
+    },
+    {
+        "emp_id" : 145 ,
+        "emp_name" : "Yellow_Ranger" ,
+        "emp_sal" : "6,90,000" ,
+        "emp_des" : "Dev Eng" ,
+        "emp_gender" : "MALE" ,
+        "emp_education" : "4th class" ,
+        "emp_ex" : "4 years" ,
+        "emp_companies" : {"previous" : "rider" ,
+                           "current" : "racer"} ,
+        "emp_image" : "https://bbts1.azureedge.net/images/p/full/2020/12/fb17dd6e-3a50-4f8d-81fd-aa7fd13a90be.jpg" ,
+        "emp_skills" : ["Python" , "Spring" , "Java" , "Project"]  ,
+        "emp_city" : "Egypt"
+    },
+    {
+        "emp_id" : 146 ,
+        "emp_name" : "Pink_Ranger" ,
+        "emp_sal" : "7,90,000" ,
+        "emp_des" : "Soft Eng" ,
+        "emp_gender" : "MALE" ,
+        "emp_education" : "5th class" ,
+        "emp_ex" : "5 years" ,
+        "emp_companies" : {"previous" : "robotics" ,
+                           "current" : "reader"} ,
+        "emp_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1oBwleZ97fJXHTxi42P60uNi4NzhTJCtxQ&usqp=CAU" ,
+        "emp_skills" : ["Mongo" , "Database" , "Java" , "Oracle"]  ,
+        "emp_city" : "Spain"
+    },
+    {
+        "emp_id" : 147 ,
+        "emp_name" : "Black_Ranger" ,
+        "emp_sal" : "8,90,000" ,
+        "emp_des" : "Hard Eng" ,
+        "emp_gender" : "MALE" ,
+        "emp_education" : "6th class" ,
+        "emp_ex" : "6 years" ,
+        "emp_companies" : {"previous" : "ceo" ,
+                           "current" : "boss"} ,
+        "emp_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapFqWyh_4h2LmYfnFL0TAtJPeacgGwKFM5w&usqp=CAU" ,
+        "emp_skills" : ["Express" , "Js" , "Java" , "Tech"]  ,
+        "emp_city" : "Germany"
+    }
+]
